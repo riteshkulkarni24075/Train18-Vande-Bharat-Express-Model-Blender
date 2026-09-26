@@ -1,0 +1,9 @@
+Since the file sizes are too big, I am unable to upload it directly to the Git Hub repo.
+  Therefore, I am uploading the zip file of the project to my drive. Please download it and view it on your device.
+  And no worries, none of the file are copyright claimed and/or registered
+
+Drive Link:
+"https://drive.google.com/drive/folders/1DNBYHCou6Gfi-RSSEgyFWkjFgxkKxj-Q?usp=sharing"
+
+Note:
+Make sure you have Blender software installed on your device to view the project.
